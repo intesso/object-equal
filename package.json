@@ -1,0 +1,24 @@
+{
+  "name": "object-equal",
+  "version": "1.0.0",
+  "description": "tests wether two objects are equal (shallow).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesso/object-equal.git"
+  },
+  "keywords": [
+    "object",
+    "equals",
+    "isEqual"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intesso/object-equal/issues"
+  },
+  "homepage": "https://github.com/intesso/object-equal"
+}
